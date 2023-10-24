@@ -10,5 +10,5 @@
 # Arbeitspakete für den 24.10.2023
 
 - [ x ] Heute möchte ich den Auftrag 1731 im Modul 431 fertig machen.
-- [ ] Heute möchte ich den ExZ 1732 Auftrag machen.
+- [ X ] Heute möchte ich den ExZ 1732 Auftrag machen.
 - [ ] Heute möchte ich das Modul 431 abschliessen

@@ -17,7 +17,7 @@ Heute habe ich an dem Modul weitergearbeitet und ich habe die Aufträge fertig g
 
 # Arbeitspakete für den 31.10.2023
 
-- [ ] Ich möchte mir ein Projekt überlegen.
-- [ ] Ich möchte das Projekt beginnen.
+- [ ] Ich möchte ein Plattformspiel programmieren.
+- [ ] Ich möchte Operatoren repetieren.
 - [ ] Ich möchte mich mit dem Projekt auseinandersetzen, dass uns die Kantilehrer gegeben haben.
 - [ ] Ich möchte Arrays repetieren.

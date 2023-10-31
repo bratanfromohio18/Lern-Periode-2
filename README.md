@@ -21,6 +21,7 @@ Heute habe ich an dem Modul weitergearbeitet und ich habe die Aufträge fertig g
 - [X] Ich möchte Operatoren repetieren.
 - [X] Ich möchte mich mit dem Projekt auseinandersetzen, dass uns die Kantilehrer gegeben haben.
 - [X] Ich möchte Arrays repetieren.
+
 Heute habe ich angefangen eine Website zu programmieren. Ebenfalls habe ich heute die Operatoren repetiert. Ich habe mich mit meinem Notenrechner auseinandergesetzt und ein bisschen überarbteitet. Ich habe ebenfalls die Arrays repetiert und mir die Theorie von den Arrays angeschaut, studiert und versucht umzusetzen. Ich habe heute gut gearbeitet habe ich das Gefühl und ich möchte so weiter arbeiten. (59 Wörter)
 
 # Arbeitspakete für den 07.11.2023

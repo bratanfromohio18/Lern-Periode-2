@@ -26,6 +26,13 @@ Heute habe ich angefangen eine Website zu programmieren. Ebenfalls habe ich heut
 
 # Arbeitspakete für den 07.11.2023
 
-- [ ] Ich möchte die Arrays in mein Programm einbringen.
-- [ ] Ich möchte ein Notizen Programm programmieren.
+- [X] Ich möchte die Arrays in mein Programm einbringen.
+- [X] Ich möchte ein Notizen Programm programmieren.
 - [ ] Ich möchte das Notenrechnerprogramm erweitern.
+
+Ich habe heute an meinem Notizenprogramm gut gearbeitet und ich konnte es weiterentwickeln. Ich finde heute habe ich allgemein sehr konzentriert gearbeitet und ich konnte auch mehr schlafen weil wir Homeschooling hatten. Wenn wir nämlich kein Homeschooling haben ist es für mich immer stressig weil ich immer eine halbe Stunde zu früh in der BBB bin. Das macht für mich einen sehr grossen Unterschied weil ich mich zu Hause besser konzentrieren kann.
+
+# Arbeitspakete für den 14.11.2023
+- [ ] Ich möchte mit einem Buchungsatztrainer anfangen.
+- [ ] Ich möchte das Projekt das wir angefangen haben ein bisschen erweitern
+- [ ] Ich möchte das Notizen programm erweitern

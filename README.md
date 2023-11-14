@@ -37,7 +37,7 @@ Ich habe heute an meinem Notizenprogramm gut gearbeitet und ich konnte es weiter
 - [X] Ich möchte das Projekt das wir angefangen haben ein bisschen erweitern
 - [ ] Ich möchte das Notizen programm erweitern
 
-      Heute haben ich und meine Gruppe an dem Programmierprojekt gearbeitet. Wir sind sehr gut voran gekommen und wir konnten gute Sachen programmieren. Der           Buchungssatztrainier ist gut aufgebaut und er hat eine gute Struktur. Er wurde gut bearbeitet und wir sind heute weit gekommen.
+  Heute haben ich und meine Gruppe an dem Programmierprojekt gearbeitet. Wir sind sehr gut voran gekommen und wir konnten gute Sachen programmieren. Der           Buchungssatztrainier ist gut aufgebaut und er hat eine gute Struktur. Er wurde gut bearbeitet und wir sind heute weit gekommen.
 
 # Arbeitspakete für den 21.11.23
 

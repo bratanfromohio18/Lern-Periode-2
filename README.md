@@ -41,7 +41,11 @@ Ich habe heute an meinem Notizenprogramm gut gearbeitet und ich konnte es weiter
 
 # Arbeitspakete für den 21.11.23
 
-- [ ] Ich möchte am Programmierprojetk weiterarbeiten
-- [ ] Ich möchte die Datentypen repetieren
+- [X] Ich möchte am Programmierprojetk weiterarbeiten
+- [X] Ich möchte die Datentypen repetieren
 - [ ] Ich möchte den Notenrechner erweitern
+
+Heute habe ich und meine Gruppe an dem Programmierprojekt weitergerarbeitet.
+
+
       

@@ -45,7 +45,55 @@ Ich habe heute an meinem Notizenprogramm gut gearbeitet und ich konnte es weiter
 - [X] Ich möchte die Datentypen repetieren
 - [ ] Ich möchte den Notenrechner erweitern
 
-Heute habe ich und meine Gruppe an dem Programmierprojekt weitergerarbeitet.
+Heute habe ich und meine Gruppe an dem Programmierprojekt weitergerarbeitet. Wir müssen für das Programmierprojekt einen Server erstellen und wir haben viel recherchiert. Es ist sehr komplex und sehr schwierig. Ich finde weil wir zu Hause gearbeitet haben, sind wir mehr voran gekommen und wir konnten besser arbeiten als sonst. Hier unten sehen sie noch den Code zum Server an dem wir gerade arbeiten.
+
+using System;
+using System.Text;
+using SimpleTCP;
+
+
+
+
+namespace Test
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var server = new SimpleTcpServer();
+            
+            server.ClientConnected += (sender, e) =>
+            Console.WriteLine($"Client ({e.Client.RemoteEndPoint}) connected!");
+
+            server.ClientDisconnected += (sender, e) =>
+            Console.WriteLine($"Client ({e.Client.RemoteEndPoint}) disconnected!");
+
+            server.DataReceived += (sender, e) =>
+            {
+                var ep = e.TcpClient.Client.RemoteEndPoint;
+                var msg = Encoding.UTF8.GetString(e.Data);
+                Console.WriteLine($"Received message from {ep}: \"{msg}\".");
+                e.Reply(Encoding.UTF8.GetBytes("Hello back!"));
+            };
+
+            server.Start(5000);
+
+            server.Broadcast(Encoding.UTF8.GetBytes("Message to everyone!"));
+
+            Console.ReadLine();
+
+
+        }
+    }
+
+}
+
+# Arbeitspakete für den 28.11.2023
+
+- [ ] Heute arbeiten wir am Programmierprojekt
+- [ ] Heute machen wir den Code um die textdatei einzulesen
+- [ ] Heute arbeiten wir am Servercode
+
 
 
       

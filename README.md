@@ -90,9 +90,13 @@ namespace Test
 
 # Arbeitspakete für den 28.11.2023
 
-- [ ] Heute arbeiten wir am Programmierprojekt
-- [ ] Heute machen wir den Code um die textdatei einzulesen
-- [ ] Heute arbeiten wir am Servercode
+- [X] Heute arbeiten wir am Programmierprojekt
+- [X] Heute machen wir den Code um die textdatei einzulesen
+- [X] Heute arbeiten wir am Servercode
+
+Heute haben wir an dem Programmierprojekt weitergearbeitet und wir haben den Code geschrieben für das Programmierprojekt. Heute haben wir sehr Produktiv gearbeitet und ich glaube das es am Schlaf liegt. Durch mehr schlaf sind wir produktiver.
+
+# Arbeitspakete für den 5.12.2023
 
 
 

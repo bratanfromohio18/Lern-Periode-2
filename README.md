@@ -98,8 +98,15 @@ Heute haben wir an dem Programmierprojekt weitergearbeitet und wir haben den Cod
 
 # Arbeitspakete für den 5.12.2023
 
-- [ ] Heute Arbeite ich am Finanzenrechner
-- [ ] Heute arbeite ich an dem Datenmodell
+- [X] Heute Arbeite ich am Finanzenrechner
+- [X] Heute arbeite ich an dem Datenmodell
 - [ ] Heute arbeite ich beim Modul 162 und lerne ein bisschen.
 
+Heute habe ich einen Finanztrainer angefangen und ich bin schon weit gekommen. Ich habe mit Warenbestand und Warenertrag gearbeitet und ich habe ebenfalls mit Warenaufwand gearbeitet. Man kann entscheiden ob man den Gewinn ausrechnen will oder ob man den aktuellen Warenbestand ausrechnen will. Dazu will ich das man die Buchungssätze speichern kann und auch eine Bilanz machen kann. Ich will mich mit dem Speichern ausseinander setzen und ich will schauen wie man eine Bilanz machen könnte
+
+# Arbeitspakete für den 12.12.2023
+
+- [ ] Ich möchte in meinem Finanzprogramm eine Bilanz erstellen
+- [ ] Ich möchte das ich mein eingegebens in dem Finanazprogramm speichern kann.
+- [ ] Ich möchte lernen für das Modul 162
       

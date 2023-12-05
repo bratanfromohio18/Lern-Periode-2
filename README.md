@@ -98,6 +98,8 @@ Heute haben wir an dem Programmierprojekt weitergearbeitet und wir haben den Cod
 
 # Arbeitspakete für den 5.12.2023
 
-
+- [ ] Heute Arbeite ich am Finanzenrechner
+- [ ] Heute arbeite ich an dem Datenmodell
+- [ ] Heute arbeite ich beim Modul 162 und lerne ein bisschen.
 
       

@@ -107,6 +107,14 @@ Heute habe ich einen Finanztrainer angefangen und ich bin schon weit gekommen. I
 # Arbeitspakete für den 12.12.2023
 
 - [ ] Ich möchte in meinem Finanzprogramm eine Bilanz erstellen
-- [ ] Ich möchte das ich mein eingegebens in dem Finanazprogramm speichern kann.
-- [ ] Ich möchte lernen für das Modul 162
+- [X] Ich möchte das ich mein eingegebens in dem Finanazprogramm speichern kann.
+- [X] Ich möchte lernen für das Modul 162
       
+Ich habe an meinem Informatikprojekt weitergearbeitet und die restliche Zeit habe ich mit Modul lernen verbracht. Ich habe am Modul 162 bisschen weitergearbeitet und ein bisschen gelernt. Ich habe ebenfalls beim Projekt weitergearbeitet und ich konnte heute ebenfalls wieder gut arbeiten wei ich wiedermal mehr Schlaf hatte. Ich war produktiver als sonst. 
+
+
+# Arbeitspakete für den 19.12.2023
+
+- [ ] Heute möchte ich an meinem Projekt weiterarbeiten
+- [ ] Heute möchte ich beim Modul 117 einen Auftrag erledigen
+- [ ] Heute möchte ich beim Modul 117 einen Auftrag erledigen

@@ -115,6 +115,8 @@ Ich habe an meinem Informatikprojekt weitergearbeitet und die restliche Zeit hab
 
 # Arbeitspakete für den 19.12.2023
 
-- [ ] Heute möchte ich an meinem Projekt weiterarbeiten
-- [ ] Heute möchte ich beim Modul 117 einen Auftrag erledigen
-- [ ] Heute möchte ich beim Modul 117 einen Auftrag erledigen
+- [X] Heute möchte ich an meinem Projekt weiterarbeiten
+- [X] Heute möchte ich beim Modul 117 einen Auftrag erledigen
+- [X] Heute möchte ich beim Modul 117 einen Auftrag erledigen
+
+Heute habe ich ein bisschen am Modul 117 gearbeitet und ich es hat gut funktioniert. Gestern bin ich im Unterricht nicht so weit gekommen, darum musste ich heute ein bisschen nacharbeiten. Ich habe ebenfalls am Projekt gearbeitet und es hat auch gut funktioniert. Ich habe noch an einem Portfoliobeitrag gearbeitet, den man morgen abgebem muss. Er ist fertig geworden und ich habe nur an dem gearbeitet, weil ich den rest schon fertig hatte.

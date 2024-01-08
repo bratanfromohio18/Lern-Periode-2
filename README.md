@@ -120,3 +120,6 @@ Ich habe an meinem Informatikprojekt weitergearbeitet und die restliche Zeit hab
 - [X] Heute möchte ich beim Modul 117 einen Auftrag erledigen
 
 Heute habe ich ein bisschen am Modul 117 gearbeitet und ich es hat gut funktioniert. Gestern bin ich im Unterricht nicht so weit gekommen, darum musste ich heute ein bisschen nacharbeiten. Ich habe ebenfalls am Projekt gearbeitet und es hat auch gut funktioniert. Ich habe noch an einem Portfoliobeitrag gearbeitet, den man morgen abgebem muss. Er ist fertig geworden und ich habe nur an dem gearbeitet, weil ich den rest schon fertig hatte.
+
+## Reflexion
+Ich glaube, dass ich in dieser Zeit viel über Programmieren gelernt habe. Ich glaube, es war schwierig für mich, Begriffe und anderes zum Programmieren zu lernen. Ich glaube, ich könnte noch produktiver arbeiten, weil ich manchmal das Gefühl hatte, dass ich zu schnell nachgelassen und nicht weitergemacht habe. Ich glaube, ich könnte es besser machen, weil ich mich im Programmieren noch nicht ganz so sicher fühle. Ich benötige mehr Bewegung. In den Unterrichtsstunden möchte ich mich mehr konzentrieren. Ich denke, es geht besser, wenn ich Musik höre und meine Kopfhöhrer anziehe. 
